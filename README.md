@@ -6,4 +6,4 @@ The goals of this project are currently the following:
   2. Visualize the data: using Seaborn plots to see numerical trends; and a combination of Folium, Matplotlib, and GeoPandas to see what crime happens where in the City.
   3. Predict future crime: using a machine learning model based on the scrubbed data, find what, where, and when future crime will occur.
 
-See the "Crime Data Exploration" notebook for a "guided tour" of the data (which addresses the first two goal items); and the "CrimeData" directory for the raw data.
+See the "Crime Data Exploration" notebook for a "guided tour" of the data (which addresses the first two goal items); and the assorted "(x)year" CSV files for the raw data.
