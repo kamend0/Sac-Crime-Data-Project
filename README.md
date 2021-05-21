@@ -6,7 +6,7 @@ The goals of this project are currently the following:
   2. Visualize the data: using Seaborn plots to see numerical trends; and a combination of Folium, Matplotlib, and GeoPandas to see what crime happens where in the City.
   3. Predict future crime: using a machine learning model based on the scrubbed data, as well as other datasets (e.g. Census data) to find what, where, and when future crime will occur.
 
-See the "Crime Data Exploration" notebook for a "guided tour" of the data (which addresses the first two goal items); and the assorted "(x)year" CSV files for the raw data. To view the notebook, I really suggest using nbviewer: https://nbviewer.jupyter.org/github/kamend0/Sac-Crime-Data-Project/blob/main/Crime%20Data%20Exploration.ipynb
+See the "Crime Data Exploration" notebook for a "guided tour" of the data (which addresses the first two goal items); the "Crime Data Mapping" notebook for geographical visualizations (item 2); and the assorted "(x)year" CSV files for the raw data. To view the notebook, I really suggest using nbviewer: https://nbviewer.jupyter.org/github/kamend0/Sac-Crime-Data-Project/blob/main/Crime%20Data%20Exploration.ipynb
 
 NOTE ON THE NOTEBOOK: It references all data being in a directory called CrimeData, which is leftover from running locally. If running yourself, either toss the raw data into a directory named CrimeData or remove the reference to that directory in the initial data-pulling loop.
 
